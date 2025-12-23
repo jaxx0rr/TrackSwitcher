@@ -58,6 +58,7 @@ Orange → D5
 
 IMPORTANT  
 Use VV / 5V just like in the image, DO NOT USE VIN OR 3.3 otherwise you might fry your microcontroller.
+If you have a multimeter measure the voltage, it must be 5V+ when the nodemcu is plugged in.
 
 ---
 
