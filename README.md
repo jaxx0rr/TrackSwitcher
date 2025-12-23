@@ -74,10 +74,12 @@ Use VV / 5V just like in the image, DO NOT USE VIN OR 3.3 otherwise you might fr
    
        https://arduino.esp8266.com/stable/package_esp8266com_index.json
 
-4. Click **OK**
-5. Go to **Tools → Board → Boards Manager**
-6. Search for **esp8266**
-7. Install **“esp8266 by ESP8266 Community”**
+![Arduino](Images/arduino.jpg)
+
+5. Click **OK**
+6. Go to **Tools → Board → Boards Manager**
+7. Search for **esp8266**
+8. Install **“esp8266 by ESP8266 Community”**
 
 #### Step 1c: Select the correct board
 1. Go to **Tools → Board**
