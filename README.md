@@ -48,7 +48,9 @@ Servo → NodeMCU
 You can cut the Orange Servo wire at the end and use part of a dupont wire to bind it to D5 on the Nodemcu.
 
 Brown → GND
+
 Red → VV
+
 Orange → D5 
 
 ![Wiring1](Images/005.jpg)
