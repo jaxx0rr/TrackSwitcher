@@ -31,12 +31,12 @@ Each track switch consists of:
 
 ## 🧩 Required Parts
 
-- NodeMCU (ESP8266)
-- SG90 9g servo
+- NodeMCU (ESP8266) (dimensions: 60mm x 31mm)
+- SG90 9g servo (dimensions: 23mm x 24.5mm)
 - Dupont wire
 - Hot glue
 - Thin metal wire for servo → track linkage
-- 3D-printed case (base + cover)
+- 3D-printed case (see zip file) 
 - and probably the most important part.. a Piko switch track just like in the image (unless you are willing to edit the model to make another track fit...
 
 ---
@@ -45,7 +45,7 @@ Each track switch consists of:
 
 Servo → NodeMCU
 
-You can cut the Orange Servo wire at the end and use part of a dupont wire to bind it to D5 on the Nodemcu.
+You can just cut the Orange Servo wire at the end and use part of a dupont wire to bind it to D5 on the Nodemcu.
 
 Brown → GND
 
@@ -64,7 +64,7 @@ Use VV / 5V just like in the image, DO NOT USE VIN OR 3.3 otherwise you might fr
 ## 🧠 Firmware Setup (TrackSwitcher_v2.ino)
 
 #### Step 1a: Install Arduino IDE
-- Download and install Arduino IDE (version 1.8.x or newer)
+- Download and install Arduino IDE (2.3.7)
 - https://www.arduino.cc/en/software
 
 #### Step 1b: Add ESP8266 (NodeMCU) board support
