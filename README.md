@@ -140,7 +140,7 @@ Before installing the mechanical linkage, do the following:
 5. Confirm the servo arm is now positioned for the diverging (rightward) direction
 
 
-![Assembly](Images/002.jpg)
+![Assembly](Images/002b.jpg)
 
 
 ## 🛠 Mechanical Assembly
