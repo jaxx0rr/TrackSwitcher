@@ -121,6 +121,10 @@ Installation:
 2. Enable “Install unknown apps”
 3. Install the APK
 
+
+![APK](Images/apk.jpg)
+
+
 ---
 
 ## 🔄 Initial Switch Calibration (IMPORTANT)
