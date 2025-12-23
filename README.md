@@ -1,6 +1,6 @@
 # 🚦 JX Track Switch System for H0 Piko Track Switch
 
-![OK](images/001.jpg)
+![OK](Images/001.jpg)
 
 This project is a WiFi-controlled model railway track switch system consisting of:
 
