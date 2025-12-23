@@ -98,9 +98,6 @@ Restart Arduino IDE after installing libraries.
 
 #### Step 1e: Open the firmware
 - Open `TrackSwitcher_v2.ino` in Arduino IDE
-- Verify that no errors appear before compiling
-- if there are any just use CHATGPT to find out why
-
 
 ### Step 2: Set WiFi credentials
 You must edit these lines before compiling:
@@ -113,11 +110,6 @@ Each switch connects directly to your local WiFi.
 ### Step 3: Upload
 - select the board (if not selected): NodeMCU 1.0 (ESP-12E Module)
 - and the port: COM3 ? (the new one that shows up when you plug in the board)
-
-After upload, the switch will:
-- connect to WiFi
-- advertise itself via mDNS
-- expose a small HTTP API (/info, /toggle)
 
 ---
 
