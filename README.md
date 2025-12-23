@@ -31,14 +31,13 @@ Each track switch consists of:
 
 ## 🧩 Required Parts
 
-- NodeMCU (ESP8266) (dimensions: 60mm x 31mm)
+- NodeMCU (ESP8266) (dimensions: 60mm x 31mm) - this has to be exact unless you are willing to edit the 3d print model
 - SG90 9g servo (dimensions: 23mm x 24.5mm)
 - Dupont wire
 - Hot glue
 - Thin metal wire for servo → track linkage
 - 3D-printed case (see zip file) 
-- and probably the most important part.. a Piko switch track just like in the image (unless you are willing to edit the model to make another track fit...
-
+- and probably the most important part.. a Piko switch track just like in the image (again this exact one unless you want to edit the model)
 ---
 
 ## 🔌 Wiring
