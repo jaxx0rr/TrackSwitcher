@@ -1,5 +1,7 @@
 # 🚦 JX Track Switch System for H0 Piko Track Switch
 
+![OK](images/servo_linkage.jpg)
+
 This project is a WiFi-controlled model railway track switch system consisting of:
 
 - a NodeMCU-based track switch (servo + WiFi)
