@@ -74,7 +74,9 @@ Use VV / 5V just like in the image, DO NOT USE VIN OR 3.3 otherwise you might fr
    
        https://arduino.esp8266.com/stable/package_esp8266com_index.json
 
+
 ![Arduino](Images/arduino.jpg)
+
 
 5. Click **OK**
 6. Go to **Tools → Board → Boards Manager**
