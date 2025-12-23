@@ -163,7 +163,7 @@ Before installing the mechanical linkage, do the following:
    Fine-tune linkage if needed
 
 
-![Assembly](Images/003.jpg)
+![Assembly](Images/003b.jpg)
 
 ---
 
