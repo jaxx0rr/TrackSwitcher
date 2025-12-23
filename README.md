@@ -1,6 +1,6 @@
 # 🚦 JX Track Switch System for H0 Piko Track Switch
 
-![OK](Images/001.jpg)
+![Main](Images/001.jpg)
 
 This project is a WiFi-controlled model railway track switch system consisting of:
 
@@ -51,7 +51,8 @@ Brown → GND
 Red → VV
 Orange → D5 
 
-
+![Wiring1](Images/005.jpg)
+![Wiring2](Images/004.jpg)
 
 IMPORTANT  
 Use VV / 5V just like in the image, DO NOT USE VIN OR 3.3 otherwise you might fry your microcontroller.
@@ -156,6 +157,9 @@ Before installing the mechanical linkage, do the following:
    Track must move cleanly between straight and diverging  
    Fine-tune linkage if needed
 
+
+![Assembly](Images/003.jpg)
+
 ---
 
 ## 🖥 Optional: ESP32 Touchscreen Manager
@@ -179,4 +183,6 @@ Notes:
 - Requires TFT_eSPI and TFT_Touch libraries
 - Touch calibration and rotation must be correct
 - Some manual tweaking may be required depending on board revision
+
+  ![Assembly](Images/002.jpg)
 
